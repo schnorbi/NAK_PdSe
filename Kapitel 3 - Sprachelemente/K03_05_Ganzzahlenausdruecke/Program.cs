@@ -14,3 +14,13 @@ if (int.TryParse(Console.ReadLine(), out inputnumber))
         Console.WriteLine($"postition {pos}: digit = {digit}");
     } while (inputnumber != 0);
 }
+
+// a) flase
+// b) true
+// c) true
+// d) true
+// e) flase
+// f) true
+// g) true
+// h) false
+// i) false

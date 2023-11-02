@@ -4,6 +4,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "K03_01_Variablen", "K03_01_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "K03_05_Ganzzahlenausdruecke", "K03_05_Ganzzahlenausdruecke\K03_05_Ganzzahlenausdruecke.csproj", "{87129172-B6FC-4D8B-B170-D04616D3D2E4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "K03_08_Inkrement-Dekrement", "K03_08_Inkrement-Dekrement\K03_08_Inkrement-Dekrement.csproj", "{F013320D-DCD1-4DA1-995B-8BFDEC406D07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "K03_09_Formatierung", "K03_09_Formatierung\K03_09_Formatierung.csproj", "{944B1E50-43A9-4253-BF26-7EEE5DC4D985}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +22,13 @@ Global
 		{87129172-B6FC-4D8B-B170-D04616D3D2E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{87129172-B6FC-4D8B-B170-D04616D3D2E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{87129172-B6FC-4D8B-B170-D04616D3D2E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F013320D-DCD1-4DA1-995B-8BFDEC406D07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F013320D-DCD1-4DA1-995B-8BFDEC406D07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F013320D-DCD1-4DA1-995B-8BFDEC406D07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F013320D-DCD1-4DA1-995B-8BFDEC406D07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{944B1E50-43A9-4253-BF26-7EEE5DC4D985}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{944B1E50-43A9-4253-BF26-7EEE5DC4D985}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{944B1E50-43A9-4253-BF26-7EEE5DC4D985}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{944B1E50-43A9-4253-BF26-7EEE5DC4D985}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
