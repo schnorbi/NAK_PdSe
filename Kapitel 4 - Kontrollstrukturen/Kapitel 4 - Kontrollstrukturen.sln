@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "K04_10_Summe", "K04_10_Summ
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "K04_11_Muster", "K04_11_Muster\K04_11_Muster.csproj", "{750140CD-8101-49BF-903C-674F5B8604D4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "K04_21_Try-Catch-Finally", "K04_21_Try-Catch-Finally\K04_21_Try-Catch-Finally.csproj", "{B8C80FA5-9EEE-4A86-B0B6-39CB7CC4814A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{750140CD-8101-49BF-903C-674F5B8604D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{750140CD-8101-49BF-903C-674F5B8604D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{750140CD-8101-49BF-903C-674F5B8604D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8C80FA5-9EEE-4A86-B0B6-39CB7CC4814A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8C80FA5-9EEE-4A86-B0B6-39CB7CC4814A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8C80FA5-9EEE-4A86-B0B6-39CB7CC4814A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8C80FA5-9EEE-4A86-B0B6-39CB7CC4814A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
