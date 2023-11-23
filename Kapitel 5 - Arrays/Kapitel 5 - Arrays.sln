@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "K05_05_TextLesen", "K05_05_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "K05_07_Primzahlen", "K05_07_Primzahlen\K05_07_Primzahlen.csproj", "{C68E6CCC-2F10-4CC8-8C1A-5586950DC7F1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "K05_10-11_AddMatrix", "K05_10-11_AddMatrix\K05_10-11_AddMatrix.csproj", "{9B5271DF-F456-45EA-8886-52DF74514AAD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{C68E6CCC-2F10-4CC8-8C1A-5586950DC7F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C68E6CCC-2F10-4CC8-8C1A-5586950DC7F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C68E6CCC-2F10-4CC8-8C1A-5586950DC7F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B5271DF-F456-45EA-8886-52DF74514AAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B5271DF-F456-45EA-8886-52DF74514AAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B5271DF-F456-45EA-8886-52DF74514AAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B5271DF-F456-45EA-8886-52DF74514AAD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
