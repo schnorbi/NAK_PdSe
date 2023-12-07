@@ -27,12 +27,25 @@ public class Anhaenger
 
     #region methods
 
+    public string AsString()
+    {
+        return $"Anhaenger: {_marke} {_modell} {_gewicht}";
+    }
+
     // Assoziationsmethoden
     public void Ankuppeln(Auto auto)
     {
         if (_auto == null)
         {
             _auto = auto;
+        }
+    }
+
+    public void Abkuppeln()
+    {
+        if (_auto != null)
+        {
+            _auto = null;
         }
     }
 

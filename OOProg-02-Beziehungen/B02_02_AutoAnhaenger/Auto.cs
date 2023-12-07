@@ -29,10 +29,16 @@ public class Auto
     
     // Objektmethoden
 
-    public void Print()
+    public string AsString()
     {
-
+        string s = $"Auto: {_marke} {_modell}";
+        if (_anhaenger != null)
+            s += $" ist gekuppelt mit {_anhaenger.AsString()}";
+        else
+            s += " ist ohne Anhaenger";
+        return s;
     }
+
     
     // Assoziationsmethoden
 
@@ -41,7 +47,22 @@ public class Auto
         if (_anhaenger == null)
         {
             _anhaenger = anhaenger;
-            
+            _anhaenger.Ankuppeln(this);
+        }
+        else
+        {
+            Console.WriteLine(this.AsString());
+            Console.WriteLine("Es ist schon ein Anhänger angekuppelt!");
+        }
+
+    }
+
+    public void Abkuppeln()
+    {
+        if (_anhaenger != null)
+        {
+            _anhaenger.Abkuppeln();
+            _anhaenger = null;
         }
     }
     
