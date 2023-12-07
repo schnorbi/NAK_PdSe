@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B02_01_AutoFahrerMitfahrer", "B02_01_AutoFahrerMitfahrer\B02_01_AutoFahrerMitfahrer.csproj", "{0A0F9600-A68F-4B2D-8153-8AB70C33DE4A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B02_02_AutoAnhaenger", "B02_02_AutoAnhaenger\B02_02_AutoAnhaenger.csproj", "{D43E87C0-3040-49F0-8FF2-A5A5727DD582}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{0A0F9600-A68F-4B2D-8153-8AB70C33DE4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A0F9600-A68F-4B2D-8153-8AB70C33DE4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A0F9600-A68F-4B2D-8153-8AB70C33DE4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D43E87C0-3040-49F0-8FF2-A5A5727DD582}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D43E87C0-3040-49F0-8FF2-A5A5727DD582}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D43E87C0-3040-49F0-8FF2-A5A5727DD582}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D43E87C0-3040-49F0-8FF2-A5A5727DD582}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
