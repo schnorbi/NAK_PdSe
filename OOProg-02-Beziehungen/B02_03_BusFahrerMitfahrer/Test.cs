@@ -23,7 +23,7 @@ class Test{
         bus.Print();
         
         bus.Aussteigen(mitfahrer3);
-        bus.Print();
+        bus.Print();           
     }
 
     static void Main()

@@ -38,8 +38,14 @@ public class Bus
         {
             Console.WriteLine($"Fahrer: {_fahrer.AsString()}");
         }
-      
+
+        foreach (var mitfahrer in _arrayMitfahrer)
+        {
+            if (mitfahrer == null) continue;
+            Console.WriteLine($"Mitfahrer {mitfahrer.AsString()}");
+        }
     }
+
     
     // Assoziationsmethoden
     public void Einsteigen(Fahrer fahrer)
