@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B02_05_Kundenverwaltung", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B02_07_Buch_Autor", "B02_07_Buch_Autor\B02_07_Buch_Autor.csproj", "{C77ACEE0-A823-4512-8874-9D99AEA36E23}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B02_08_Leser", "B02_08_Leser\B02_08_Leser.csproj", "{B0EC4DAB-9113-4AB8-BA43-B330763EEF41}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{C77ACEE0-A823-4512-8874-9D99AEA36E23}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C77ACEE0-A823-4512-8874-9D99AEA36E23}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C77ACEE0-A823-4512-8874-9D99AEA36E23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0EC4DAB-9113-4AB8-BA43-B330763EEF41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0EC4DAB-9113-4AB8-BA43-B330763EEF41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0EC4DAB-9113-4AB8-BA43-B330763EEF41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0EC4DAB-9113-4AB8-BA43-B330763EEF41}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
