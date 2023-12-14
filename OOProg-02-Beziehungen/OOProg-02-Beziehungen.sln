@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B02_03_BusFahrerMitfahrer",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B02_05_Kundenverwaltung", "B02_05_Kundenverwaltung\B02_05_Kundenverwaltung.csproj", "{42B81E16-B4FC-4DB5-AC66-AD08930D5A64}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B02_07_Buch_Autor", "B02_07_Buch_Autor\B02_07_Buch_Autor.csproj", "{C77ACEE0-A823-4512-8874-9D99AEA36E23}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{42B81E16-B4FC-4DB5-AC66-AD08930D5A64}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{42B81E16-B4FC-4DB5-AC66-AD08930D5A64}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{42B81E16-B4FC-4DB5-AC66-AD08930D5A64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C77ACEE0-A823-4512-8874-9D99AEA36E23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C77ACEE0-A823-4512-8874-9D99AEA36E23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C77ACEE0-A823-4512-8874-9D99AEA36E23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C77ACEE0-A823-4512-8874-9D99AEA36E23}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
